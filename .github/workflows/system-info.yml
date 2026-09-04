@@ -31,5 +31,5 @@ jobs:
         run: df -h
 
       - name: Finish
-        run: echo "System information workflow completed in int331"
+        run: echo "System information workflow completed in int331 12 28 PM"
 
